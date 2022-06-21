@@ -1,3 +1,5 @@
+
+![IMG_20220621_192926](https://user-images.githubusercontent.com/92111736/174871690-bf032205-7e3e-41cc-9a01-2c74e020f85c.jpg)
 # **faw23**
 ### ⇨  Install Script Di Termux
 ```
@@ -19,5 +21,4 @@ $ git clone https://github.com/cebonk112/faw23
 $ cd faw23
 $ python faw.py
 
-
-just for fun
+just jor fun
