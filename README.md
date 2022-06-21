@@ -15,6 +15,8 @@ $ pip install requests
 $ pip install mechanize
 $ pip install bs4
 $ pip install futures
-$ git clone 
+$ git clone https://github.com/cebonk112/faw23
 $ cd faw23
-$ python
+$ python faw.py
+
+just for fun
