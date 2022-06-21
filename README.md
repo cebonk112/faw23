@@ -21,4 +21,3 @@ $ python faw.py
 
 
 just for fun
-![This is an image](/../main/assets/images/IMG_20220621_192926.jpg)
