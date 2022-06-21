@@ -19,6 +19,5 @@ $ git clone https://github.com/cebonk112/faw23
 $ cd faw23
 $ python faw.py
 
-![preview](https://github.com/cebonk112/faw23/blob/main/IMG_20220621_192926.jpg)
 
 just for fun
